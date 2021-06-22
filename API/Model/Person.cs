@@ -1,11 +1,20 @@
-namespace API.Model
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace API.Models
 {
+  [Table("person")]
   public class Person
   {
-    public long Id {get; set;}
-    public string FirstName {get; set;}
-    public string LastName {get; set;}
-    public string Address{get;set;}
-    public string Gender {get; set;}
+    [Column("id")]
+    public long Id { get; set; }
+
+    [Column("first-name")]
+    public string FirstName { get; set; }
+    [Column("last-name")]
+    public string LastName { get; set; }
+    [Column("address")]
+    public string Address { get; set; }
+    [Column("gender")]
+    public string Gender { get; set; }
   }
 }

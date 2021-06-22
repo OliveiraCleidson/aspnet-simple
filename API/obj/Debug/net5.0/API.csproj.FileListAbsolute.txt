@@ -27,3 +27,12 @@
 /home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/obj/Debug/net5.0/ref/API.dll
 /home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/obj/Debug/net5.0/API.pdb
 /home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Humanizer.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/MySqlConnector.dll
+/home/oliv/github/study/solution-test/RestWithAspNetUdemy/API/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
