@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/oliv/.dotnet/store/|arch|/|tfm|",
+      "/home/oliv/.nuget/packages"
+    ]
+  }
+}
