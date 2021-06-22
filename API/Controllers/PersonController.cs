@@ -1,6 +1,8 @@
 
 
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using API.DbContexts;
 using API.Models;
@@ -22,18 +24,10 @@ namespace API.Controllers
     }
 
     [HttpGet()]
-    public async Task<IActionResult> getAll()
+    public IList<Person> getAll()
     {
-      try
-      {
-        var result = await _context.Persons.FindAsync();
-        return Ok(result);
-
-      }
-      catch (Exception exception)
-      {
-        return BadRequest(exception.ToString());
-      }
+        var result = _context.Persons.ToList();
+        return result;
     }
   }
 }
